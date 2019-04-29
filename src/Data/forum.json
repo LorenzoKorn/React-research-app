@@ -1,0 +1,196 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "vraag?",
+      "person": "Piet",
+      "votes": 5,
+      "time": "10 hours ago",
+      "answers": [
+        {
+          "text": "antwoord 1",
+          "person": "Jan",
+          "votes": 2,
+          "verified": true,
+          "time": "10 hours ago",
+          "comments": [
+            {
+              "text": "comment 1",
+              "person": "Jan",
+              "time": "9 hours ago"
+            },
+            {
+              "text": "comment 2",
+              "person": "Keen",
+              "time": "9 hours ago"
+            },
+            {
+              "text": "comment 3",
+              "person": "Piet",
+              "time": "8 hours ago"
+            },
+            {
+              "text": "comment 4",
+              "person": "Gert",
+              "time": "8 hours ago"
+            }
+          ]
+        },
+        {
+          "text": "antwoord 2",
+          "person": "Kees",
+          "votes": 0,
+          "verified": false,
+          "time": "9 hours ago",
+          "comments": [
+            {
+              "text": "comment 1",
+              "person": "Jan",
+              "time": "9 hours ago"
+            },
+            {
+              "text": "comment 2",
+              "person": "Kees",
+              "time": "7 hours ago"
+            },
+            {
+              "text": "comment 3",
+              "person": "Piet",
+              "time": "7 hours ago"
+            },
+            {
+              "text": "comment 4",
+              "person": "Gert",
+              "time": "7 hours ago"
+            }
+          ]
+        },
+        {
+          "text": "antwoord 3",
+          "person": "Jantje",
+          "votes": 4,
+          "verified": false,
+          "time": "6 hours ago",
+          "comments": [
+            {
+              "text": "comment 1",
+              "person": "Jan",
+              "time": "5 hours ago"
+            },
+            {
+              "text": "comment 2",
+              "person": "Keen",
+              "time": "4 hours ago"
+            },
+            {
+              "text": "comment 3",
+              "person": "Piet",
+              "time": "1 hours ago"
+            },
+            {
+              "text": "comment 4",
+              "person": "Gert",
+              "time": "1 hours ago"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "vraag 2?",
+      "person": "Kees",
+      "votes": 5,
+      "time": "10 hours ago",
+      "answers": [
+        {
+          "text": "antwoord 1",
+          "person": "Jan",
+          "votes": 2,
+          "verified": false,
+          "time": "10 hours ago",
+          "comments": [
+            {
+              "text": "comment 1",
+              "person": "Jan",
+              "time": "9 hours ago"
+            },
+            {
+              "text": "comment 2",
+              "person": "Keen",
+              "time": "9 hours ago"
+            },
+            {
+              "text": "comment 3",
+              "person": "Piet",
+              "time": "8 hours ago"
+            },
+            {
+              "text": "comment 4",
+              "person": "Gert",
+              "time": "8 hours ago"
+            }
+          ]
+        },
+        {
+          "text": "antwoord 2",
+          "person": "Kees",
+          "votes": 0,
+          "verified": false,
+          "time": "9 hours ago",
+          "comments": [
+            {
+              "text": "comment 1",
+              "person": "Jan",
+              "time": "9 hours ago"
+            },
+            {
+              "text": "comment 2",
+              "person": "Kees",
+              "time": "7 hours ago"
+            },
+            {
+              "text": "comment 3",
+              "person": "Piet",
+              "time": "7 hours ago"
+            },
+            {
+              "text": "comment 4",
+              "person": "Gert",
+              "time": "7 hours ago"
+            }
+          ]
+        },
+        {
+          "text": "antwoord 3",
+          "person": "Jantje",
+          "votes": 4,
+          "verified": true,
+          "time": "6 hours ago",
+          "comments": [
+            {
+              "text": "comment 1",
+              "person": "Jan",
+              "time": "5 hours ago"
+            },
+            {
+              "text": "comment 2",
+              "person": "Keen",
+              "time": "4 hours ago"
+            },
+            {
+              "text": "comment 3",
+              "person": "Piet",
+              "time": "1 hours ago"
+            },
+            {
+              "text": "comment 4",
+              "person": "Gert",
+              "time": "1 hours ago"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

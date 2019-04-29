@@ -1,0 +1,199 @@
+{
+  "chapters": [
+    {
+      "name": "preset-chapter-1",
+      "subChapters": [
+        {
+          "name": "preset-chapter-1.1",
+          "content": [
+            {
+              "name": "preset-chapter-1.1.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-1.1.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-1.1.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        },
+        {
+          "name": "preset-chapter-1.2",
+          "content": [
+            {
+              "name": "preset-chapter-1.2.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-1.2.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-1.2.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        },
+        {
+          "name": "preset-chapter-1.3",
+          "content": [
+            {
+              "name": "preset-chapter-1.3.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-1.3.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-1.3.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "preset-chapter-2",
+      "subChapters": [
+        {
+          "name": "preset-chapter-2.1",
+          "content": [
+            {
+              "name": "preset-chapter-2.1.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-2.1.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-2.1.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        },
+        {
+          "name": "preset-chapter-2.2",
+          "content": [
+            {
+              "name": "preset-chapter-2.2.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-2.2.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-2.2.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        },
+        {
+          "name": "preset-chapter-2.3",
+          "content": [
+            {
+              "name": "preset-chapter-2.3.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-2.3.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-2.3.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "preset-chapter-3",
+      "subChapters": [
+        {
+          "name": "preset-chapter-3.1",
+          "content": [
+            {
+              "name": "preset-chapter-3.1.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-3.1.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-3.1.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        },
+        {
+          "name": "preset-chapter-3.2",
+          "content": [
+            {
+              "name": "preset-chapter-3.2.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-3.2.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-3.2.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        },
+        {
+          "name": "preset-chapter-3.3",
+          "content": [
+            {
+              "name": "preset-chapter-3.3.1",
+              "type": 1,
+              "numEx": 0
+            },
+            {
+              "name": "preset-chapter-3.3.2",
+              "type": 2,
+              "numEx": 5
+            },
+            {
+              "name": "preset-chapter-3.3.3",
+              "type": 1,
+              "numEx": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+.App {
+    text-align: center;
+    min-height: 100vh;
+    background: #dde6e9;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 40vmin;
+    pointer-events: none;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.editor {
+    background: #FFF;
+    margin-top: 50px;
+}
+
+.question-box {
+    display: flex;
+    position: relative;
+    height: 100px;
+    width: 100%;
+    margin: 20px 0 0 0;
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+    background: #DDD;
+}
+
+.answer-number {
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 20px;
+    width: 30px;
+    height: 30px;
+    background: red;
+}
+
+.question-text {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px 25px 10px 0;
+}
+
+.by-who {
+    display: flex;
+    align-items: flex-end;
+}
+
+.question-votes {
+    background: black;
+    color: white;
+    font-size: 25px;
+    width: 50px;
+    margin: 10px 0 10px 10px;
+}
+
+.edit-question {
+    position: absolute;
+    top: 20px;
+    left: 100%;
+    transform: translate(-200%, 0);
+}
+
+.answer-box {
+    display: flex;
+    background: #DDD;
+    width: 95%;
+    height: 100px;
+    margin: 10px auto 0 auto;
+    position: relative;
+}
+
+.answer-votes {
+    display:flex;
+    flex-direction:column;
+    background: black;
+    color: white;
+    width: 50px;
+    font-size: 20px;
+}
+
+.content__editor {
+    display: flex;
+    justify-content: flex-start;
+    flex: 1;
+    margin: 10px 0 10px 15px;
+}
+
+.extra {
+    flex: 1;
+    display: flex;
+    padding: 10px;
+}
+
+.comment-box {
+    display: flex;
+    margin: 5px 0 0 68px;
+    padding: 5px;
+    height: 20px;
+    background: #DDD;
+    width: calc(95% - 60px);
+}
+
+.comment-text {
+    flex: 1;
+    display: flex;
+    padding-left: 20px;
+    justify-content: flex-start;
+}
+
+.comment-button {
+    justify-self: flex-start;
+    width: 100px;
+    margin-left: 80px;
+    background:black;
+    color:white;
+}
